@@ -1,7 +1,13 @@
 # Breast Cancer Diagnosis
 ## Index
-1. [Go to Real Cool Heading section](#Problem)
-
+1. [Problem](#Problem)
+2. [Importing libraries and data](#Importing libraries and data)
+3. [Exploratory Data Analysis](#Exploratory Data Analysis)
+4. [Data Split](#Data Split)
+5. [Model Selection](#Model Selection)
+6. [Result](#Result)
+7. [Credits](#Credits)
+8. [About Me](#About Me)
 
 ## Problem
 The problem is to classify to the a given cancer as **Benign** or **Malignant** on the basis of a variety of medical parameters
