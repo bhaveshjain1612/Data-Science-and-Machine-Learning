@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis
 ## Index
-1. [Go to Real Cool Heading section](##Problem)
+1. [Go to Real Cool Heading section](#Problem)
 
 
 ## Problem
