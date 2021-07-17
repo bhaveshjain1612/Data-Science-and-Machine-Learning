@@ -1,4 +1,8 @@
 # Breast Cancer Diagnosis
+## Index
+1. [Go to Real Cool Heading section](##Problem)
+
+
 ## Problem
 The problem is to classify to the a given cancer as **Benign** or **Malignant** on the basis of a variety of medical parameters
 ## Solution
@@ -48,6 +52,7 @@ It has a run time of 0.078 seconds.<br>
 Dataset Credits : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 ## About Me
 Hi, I am Bhavesh Jain.<br>
-Website - https://bhaveshjain1612.github.io/
-Project repository - https://github.com/bhaveshjain1612/Data-Science-and-Machine-Learning
-Kaggle Id - https://www.kaggle.com/me
+I am an Engineering student with a passion for Data Science and Machine Learning.<br>
+Website - https://bhaveshjain1612.github.io/ <br>
+Project repository - https://github.com/bhaveshjain1612/Data-Science-and-Machine-Learning <br>
+Kaggle Id - https://www.kaggle.com/me <br>
