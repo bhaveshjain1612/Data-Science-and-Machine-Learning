@@ -3,7 +3,15 @@
 The problem is to classify to the a given cancer as **Benign** or **Malignant** on the basis of a variety of medical parameters
 ## Solution
 ### Importing libraries and data
-The first step was to import the libraies. The libraies used are Pandas, Numpy, Scikit Learn, Matplotlib, Seaborn, Time and Xg boost.<br>
+The first step was to import the libraies. The libraies used are:<br>
+* Pandas
+* Numpy
+* Scikit Learn
+* Matplotlib
+* Seaborn
+* Time 
+* Xg boost<br>
+
 11 distinct machine learning models were imported from the _Scikit Learn_ library and initalised to variables.<br>
 A function _Modelling_ was created to fit and evaluate the models given to it as an input.<br>
 Then the csv data was read into a dataframe using Pandas<br>
@@ -19,18 +27,17 @@ The feature group, _X_ includes 20 feature rows and target, _Y_ has just the dia
 The _X_ and _Y_ are split into test and train segments with a test data ize being 20% of the entire data<br>
 ### Model Selection
 The models used here are:<br>
-<ul>
-<li>Imported Multi Layer Perceptron	</li>
-<li>Bagging	</li>
-<li>Gradient Boosting	</li>
-<li>Ada Boost	</li>
-<li>XG Boost	</li>
-<li>Logistic Regression	</li>
-<li>Random Forest	</li>
-<li>k Nearest Neighbours	</li>
-<li>Support Vector Machine	</li>
-<li>Stacked (RFR & SVM)</li>
-</ul>
+* Imported Multi Layer Perceptron	
+* Bagging	
+* Gradient Boosting	
+* Ada Boost	
+* XG Boost	
+* Logistic Regression	
+* Random Forest	
+* k Nearest Neighbours	
+* Support Vector Machine	
+* Stacked (RFR & SVM)<br>
+
 They are passed through the function _Modelling_ and tthat gives us a dataframe containg the model accuracies and run times.<br>
 The best model is selected based on runtie and model accuracy.<br>
 ## Result
@@ -39,3 +46,8 @@ The model we used for this is **AdaBoostClassifier** <br>
 It has a run time of 0.078 seconds.<br>
 ## Credits
 Dataset Credits : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+## About Me
+Hi, I am Bhavesh Jain.<br>
+Website - https://bhaveshjain1612.github.io/
+Project repository - https://github.com/bhaveshjain1612/Data-Science-and-Machine-Learning
+Kaggle Id - https://www.kaggle.com/me
