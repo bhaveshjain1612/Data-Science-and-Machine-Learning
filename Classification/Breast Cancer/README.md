@@ -12,7 +12,8 @@
 ## Problem
 The problem is to classify to the a given cancer as **Benign** or **Malignant** on the basis of a variety of medical parameters<br>
 The  solution steps are given below.
-## Importing libraries and data
+## Solution
+### Importing libraries and data
 The first step was to import the libraies. The libraies used are:<br>
 * Pandas
 * Numpy
@@ -35,7 +36,7 @@ The columns where the Malignant and Benign coyldnt be diffrentiated were dropped
 ### Data Split
 The feature group, _X_ includes 20 feature rows and target, _Y_ has just the diagnosis column after encoding it to binary values<br>
 The _X_ and _Y_ are split into test and train segments with a test data ize being 20% of the entire data<br>
-## Model Selection
+### Model Selection
 The models used here are:<br>
 * Imported Multi Layer Perceptron	
 * Bagging	
